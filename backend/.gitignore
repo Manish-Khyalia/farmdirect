@@ -1,0 +1,25 @@
+# Maven build
+target/
+
+# IDE
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Local configuration (optional)
+application-local.properties
+application-local.yml
